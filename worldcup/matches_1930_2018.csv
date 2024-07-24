@@ -1,0 +1,901 @@
+home_team,away_team,home_score,home_penalty,away_score,away_penalty,Year,Round,Winner
+France,Croatia,4,NA,2,NA,2018,Final,France
+Belgium,England,2,NA,0,NA,2018,Third-place match,Belgium
+Croatia,England,2,NA,1,NA,2018,Semi-finals,Croatia
+France,Belgium,1,NA,0,NA,2018,Semi-finals,France
+Sweden,England,0,NA,2,NA,2018,Quarter-finals,England
+Russia,Croatia,2,3,2,4,2018,Quarter-finals,Tie
+Uruguay,France,0,NA,2,NA,2018,Quarter-finals,France
+Brazil,Belgium,1,NA,2,NA,2018,Quarter-finals,Belgium
+Sweden,Switzerland,1,NA,0,NA,2018,Round of 16,Sweden
+Colombia,England,1,3,1,4,2018,Round of 16,Tie
+Brazil,Mexico,2,NA,0,NA,2018,Round of 16,Brazil
+Belgium,Japan,3,NA,2,NA,2018,Round of 16,Belgium
+Spain,Russia,1,3,1,4,2018,Round of 16,Tie
+Croatia,Denmark,1,3,1,2,2018,Round of 16,Tie
+France,Argentina,4,NA,3,NA,2018,Round of 16,France
+Uruguay,Portugal,2,NA,1,NA,2018,Round of 16,Uruguay
+Japan,Poland,0,NA,1,NA,2018,Group stage,Poland
+Senegal,Colombia,0,NA,1,NA,2018,Group stage,Colombia
+England,Belgium,0,NA,1,NA,2018,Group stage,Belgium
+Panama,Tunisia,1,NA,2,NA,2018,Group stage,Tunisia
+Korea Republic,Germany,2,NA,0,NA,2018,Group stage,Korea Republic
+Mexico,Sweden,0,NA,3,NA,2018,Group stage,Sweden
+Switzerland,Costa Rica,2,NA,2,NA,2018,Group stage,Tie
+Serbia,Brazil,0,NA,2,NA,2018,Group stage,Brazil
+Australia,Peru,0,NA,2,NA,2018,Group stage,Peru
+Denmark,France,0,NA,0,NA,2018,Group stage,Tie
+Iceland,Croatia,1,NA,2,NA,2018,Group stage,Croatia
+Nigeria,Argentina,1,NA,2,NA,2018,Group stage,Argentina
+Saudi Arabia,Egypt,2,NA,1,NA,2018,Group stage,Saudi Arabia
+Uruguay,Russia,3,NA,0,NA,2018,Group stage,Uruguay
+Spain,Morocco,2,NA,2,NA,2018,Group stage,Tie
+IR Iran,Portugal,1,NA,1,NA,2018,Group stage,Tie
+England,Panama,6,NA,1,NA,2018,Group stage,England
+Japan,Senegal,2,NA,2,NA,2018,Group stage,Tie
+Poland,Colombia,0,NA,3,NA,2018,Group stage,Colombia
+Belgium,Tunisia,5,NA,2,NA,2018,Group stage,Belgium
+Korea Republic,Mexico,1,NA,2,NA,2018,Group stage,Mexico
+Germany,Sweden,2,NA,1,NA,2018,Group stage,Germany
+Brazil,Costa Rica,2,NA,0,NA,2018,Group stage,Brazil
+Nigeria,Iceland,2,NA,0,NA,2018,Group stage,Nigeria
+Serbia,Switzerland,1,NA,2,NA,2018,Group stage,Switzerland
+Denmark,Australia,1,NA,1,NA,2018,Group stage,Tie
+France,Peru,1,NA,0,NA,2018,Group stage,France
+Argentina,Croatia,0,NA,3,NA,2018,Group stage,Croatia
+Portugal,Morocco,1,NA,0,NA,2018,Group stage,Portugal
+Uruguay,Saudi Arabia,1,NA,0,NA,2018,Group stage,Uruguay
+IR Iran,Spain,0,NA,1,NA,2018,Group stage,Spain
+Colombia,Japan,1,NA,2,NA,2018,Group stage,Japan
+Poland,Senegal,1,NA,2,NA,2018,Group stage,Senegal
+Russia,Egypt,3,NA,1,NA,2018,Group stage,Russia
+Sweden,Korea Republic,1,NA,0,NA,2018,Group stage,Sweden
+Belgium,Panama,3,NA,0,NA,2018,Group stage,Belgium
+Tunisia,England,1,NA,2,NA,2018,Group stage,England
+Costa Rica,Serbia,0,NA,1,NA,2018,Group stage,Serbia
+Germany,Mexico,0,NA,1,NA,2018,Group stage,Mexico
+Brazil,Switzerland,1,NA,1,NA,2018,Group stage,Tie
+France,Australia,2,NA,1,NA,2018,Group stage,France
+Argentina,Iceland,1,NA,1,NA,2018,Group stage,Tie
+Peru,Denmark,0,NA,1,NA,2018,Group stage,Denmark
+Croatia,Nigeria,2,NA,0,NA,2018,Group stage,Croatia
+Egypt,Uruguay,0,NA,1,NA,2018,Group stage,Uruguay
+Morocco,IR Iran,0,NA,1,NA,2018,Group stage,IR Iran
+Portugal,Spain,3,NA,3,NA,2018,Group stage,Tie
+Russia,Saudi Arabia,5,NA,0,NA,2018,Group stage,Russia
+Germany,Argentina,1,NA,0,NA,2014,Final,Germany
+Brazil,Netherlands,0,NA,3,NA,2014,Third-place match,Netherlands
+Netherlands,Argentina,0,2,0,4,2014,Semi-finals,Tie
+Brazil,Germany,1,NA,7,NA,2014,Semi-finals,Germany
+Argentina,Belgium,1,NA,0,NA,2014,Quarter-finals,Argentina
+Netherlands,Costa Rica,0,4,0,3,2014,Quarter-finals,Tie
+France,Germany,0,NA,1,NA,2014,Quarter-finals,Germany
+Brazil,Colombia,2,NA,1,NA,2014,Quarter-finals,Brazil
+Argentina,Switzerland,1,NA,0,NA,2014,Round of 16,Argentina
+Belgium,United States,2,NA,1,NA,2014,Round of 16,Belgium
+France,Nigeria,2,NA,0,NA,2014,Round of 16,France
+Germany,Algeria,2,NA,1,NA,2014,Round of 16,Germany
+Netherlands,Mexico,2,NA,1,NA,2014,Round of 16,Netherlands
+Costa Rica,Greece,1,5,1,3,2014,Round of 16,Tie
+Brazil,Chile,1,3,1,2,2014,Round of 16,Tie
+Colombia,Uruguay,2,NA,0,NA,2014,Round of 16,Colombia
+United States,Germany,0,NA,1,NA,2014,Group stage,Germany
+Portugal,Ghana,2,NA,1,NA,2014,Group stage,Portugal
+Korea Republic,Belgium,0,NA,1,NA,2014,Group stage,Belgium
+Algeria,Russia,1,NA,1,NA,2014,Group stage,Tie
+Bosnia and Herzegovina,IR Iran,3,NA,1,NA,2014,Group stage,Bosnia and Herzegovina
+Nigeria,Argentina,2,NA,3,NA,2014,Group stage,Argentina
+Honduras,Switzerland,0,NA,3,NA,2014,Group stage,Switzerland
+Ecuador,France,0,NA,0,NA,2014,Group stage,Tie
+Costa Rica,England,0,NA,0,NA,2014,Group stage,Tie
+Italy,Uruguay,0,NA,1,NA,2014,Group stage,Uruguay
+Japan,Colombia,1,NA,4,NA,2014,Group stage,Colombia
+Greece,Côte d'Ivoire,2,NA,1,NA,2014,Group stage,Greece
+Australia,Spain,0,NA,3,NA,2014,Group stage,Spain
+Netherlands,Chile,2,NA,0,NA,2014,Group stage,Netherlands
+Croatia,Mexico,1,NA,3,NA,2014,Group stage,Mexico
+Cameroon,Brazil,1,NA,4,NA,2014,Group stage,Brazil
+Belgium,Russia,1,NA,0,NA,2014,Group stage,Belgium
+Korea Republic,Algeria,2,NA,4,NA,2014,Group stage,Algeria
+United States,Portugal,2,NA,2,NA,2014,Group stage,Tie
+Argentina,IR Iran,1,NA,0,NA,2014,Group stage,Argentina
+Germany,Ghana,2,NA,2,NA,2014,Group stage,Tie
+Nigeria,Bosnia and Herzegovina,1,NA,0,NA,2014,Group stage,Nigeria
+Italy,Costa Rica,0,NA,1,NA,2014,Group stage,Costa Rica
+Switzerland,France,2,NA,5,NA,2014,Group stage,France
+Honduras,Ecuador,1,NA,2,NA,2014,Group stage,Ecuador
+Colombia,Côte d'Ivoire,2,NA,1,NA,2014,Group stage,Colombia
+Uruguay,England,2,NA,1,NA,2014,Group stage,Uruguay
+Japan,Greece,0,NA,0,NA,2014,Group stage,Tie
+Australia,Netherlands,2,NA,3,NA,2014,Group stage,Netherlands
+Spain,Chile,0,NA,2,NA,2014,Group stage,Chile
+Cameroon,Croatia,0,NA,4,NA,2014,Group stage,Croatia
+Belgium,Algeria,2,NA,1,NA,2014,Group stage,Belgium
+Brazil,Mexico,0,NA,0,NA,2014,Group stage,Tie
+Russia,Korea Republic,1,NA,1,NA,2014,Group stage,Tie
+Germany,Portugal,4,NA,0,NA,2014,Group stage,Germany
+IR Iran,Nigeria,0,NA,0,NA,2014,Group stage,Tie
+Ghana,United States,1,NA,2,NA,2014,Group stage,United States
+Switzerland,Ecuador,2,NA,1,NA,2014,Group stage,Switzerland
+France,Honduras,3,NA,0,NA,2014,Group stage,France
+Argentina,Bosnia and Herzegovina,2,NA,1,NA,2014,Group stage,Argentina
+Colombia,Greece,3,NA,0,NA,2014,Group stage,Colombia
+Uruguay,Costa Rica,1,NA,3,NA,2014,Group stage,Costa Rica
+England,Italy,1,NA,2,NA,2014,Group stage,Italy
+Côte d'Ivoire,Japan,2,NA,1,NA,2014,Group stage,Côte d'Ivoire
+Mexico,Cameroon,1,NA,0,NA,2014,Group stage,Mexico
+Spain,Netherlands,1,NA,5,NA,2014,Group stage,Netherlands
+Chile,Australia,3,NA,1,NA,2014,Group stage,Chile
+Brazil,Croatia,3,NA,1,NA,2014,Group stage,Brazil
+Netherlands,Spain,0,NA,1,NA,2010,Final,Spain
+Uruguay,Germany,2,NA,3,NA,2010,Third-place match,Germany
+Germany,Spain,0,NA,1,NA,2010,Semi-finals,Spain
+Uruguay,Netherlands,2,NA,3,NA,2010,Semi-finals,Netherlands
+Argentina,Germany,0,NA,4,NA,2010,Quarter-finals,Germany
+Paraguay,Spain,0,NA,1,NA,2010,Quarter-finals,Spain
+Netherlands,Brazil,2,NA,1,NA,2010,Quarter-finals,Netherlands
+Uruguay,Ghana,1,4,1,2,2010,Quarter-finals,Tie
+Paraguay,Japan,0,5,0,3,2010,Round of 16,Tie
+Spain,Portugal,1,NA,0,NA,2010,Round of 16,Spain
+Netherlands,Slovakia,2,NA,1,NA,2010,Round of 16,Netherlands
+Brazil,Chile,3,NA,0,NA,2010,Round of 16,Brazil
+Germany,England,4,NA,1,NA,2010,Round of 16,Germany
+Argentina,Mexico,3,NA,1,NA,2010,Round of 16,Argentina
+Uruguay,Korea Republic,2,NA,1,NA,2010,Round of 16,Uruguay
+United States,Ghana,1,NA,2,NA,2010,Round of 16,Ghana
+Portugal,Brazil,0,NA,0,NA,2010,Group stage,Tie
+Korea DPR,Côte d'Ivoire,0,NA,3,NA,2010,Group stage,Côte d'Ivoire
+Chile,Spain,1,NA,2,NA,2010,Group stage,Spain
+Switzerland,Honduras,0,NA,0,NA,2010,Group stage,Tie
+Paraguay,New Zealand,0,NA,0,NA,2010,Group stage,Tie
+Slovakia,Italy,3,NA,2,NA,2010,Group stage,Slovakia
+Denmark,Japan,1,NA,3,NA,2010,Group stage,Japan
+Cameroon,Netherlands,1,NA,2,NA,2010,Group stage,Netherlands
+Slovenia,England,0,NA,1,NA,2010,Group stage,England
+United States,Algeria,1,NA,0,NA,2010,Group stage,United States
+Ghana,Germany,0,NA,1,NA,2010,Group stage,Germany
+Australia,Serbia,2,NA,1,NA,2010,Group stage,Australia
+Mexico,Uruguay,0,NA,1,NA,2010,Group stage,Uruguay
+France,South Africa,1,NA,2,NA,2010,Group stage,South Africa
+Nigeria,Korea Republic,2,NA,2,NA,2010,Group stage,Tie
+Greece,Argentina,0,NA,2,NA,2010,Group stage,Argentina
+Portugal,Korea DPR,7,NA,0,NA,2010,Group stage,Portugal
+Chile,Switzerland,1,NA,0,NA,2010,Group stage,Chile
+Spain,Honduras,2,NA,0,NA,2010,Group stage,Spain
+Slovakia,Paraguay,0,NA,2,NA,2010,Group stage,Paraguay
+Italy,New Zealand,1,NA,1,NA,2010,Group stage,Tie
+Brazil,Côte d'Ivoire,3,NA,1,NA,2010,Group stage,Brazil
+Netherlands,Japan,1,NA,0,NA,2010,Group stage,Netherlands
+Ghana,Australia,1,NA,1,NA,2010,Group stage,Tie
+Cameroon,Denmark,1,NA,2,NA,2010,Group stage,Denmark
+Germany,Serbia,0,NA,1,NA,2010,Group stage,Serbia
+Slovenia,United States,2,NA,2,NA,2010,Group stage,Tie
+England,Algeria,0,NA,0,NA,2010,Group stage,Tie
+Argentina,Korea Republic,4,NA,1,NA,2010,Group stage,Argentina
+Greece,Nigeria,2,NA,1,NA,2010,Group stage,Greece
+France,Mexico,0,NA,2,NA,2010,Group stage,Mexico
+Honduras,Chile,0,NA,1,NA,2010,Group stage,Chile
+Spain,Switzerland,0,NA,1,NA,2010,Group stage,Switzerland
+South Africa,Uruguay,0,NA,3,NA,2010,Group stage,Uruguay
+New Zealand,Slovakia,1,NA,1,NA,2010,Group stage,Tie
+Côte d'Ivoire,Portugal,0,NA,0,NA,2010,Group stage,Tie
+Brazil,Korea DPR,2,NA,1,NA,2010,Group stage,Brazil
+Netherlands,Denmark,2,NA,0,NA,2010,Group stage,Netherlands
+Japan,Cameroon,1,NA,0,NA,2010,Group stage,Japan
+Italy,Paraguay,1,NA,1,NA,2010,Group stage,Tie
+Algeria,Slovenia,0,NA,1,NA,2010,Group stage,Slovenia
+Serbia,Ghana,0,NA,1,NA,2010,Group stage,Ghana
+Germany,Australia,4,NA,0,NA,2010,Group stage,Germany
+Korea Republic,Greece,2,NA,0,NA,2010,Group stage,Korea Republic
+Argentina,Nigeria,1,NA,0,NA,2010,Group stage,Argentina
+England,United States,1,NA,1,NA,2010,Group stage,Tie
+South Africa,Mexico,1,NA,1,NA,2010,Group stage,Tie
+Uruguay,France,0,NA,0,NA,2010,Group stage,Tie
+Italy,France,1,5,1,3,2006,Final,Italy
+Germany,Portugal,3,NA,1,NA,2006,Third-place match,Germany
+Portugal,France,0,NA,1,NA,2006,Semi-finals,France
+Germany,Italy,0,NA,2,NA,2006,Semi-finals,Italy
+England,Portugal,0,1,0,3,2006,Quarter-finals,Tie
+Brazil,France,0,NA,1,NA,2006,Quarter-finals,France
+Germany,Argentina,1,4,1,2,2006,Quarter-finals,Tie
+Italy,Ukraine,3,NA,0,NA,2006,Quarter-finals,Italy
+Brazil,Ghana,3,NA,0,NA,2006,Round of 16,Brazil
+Spain,France,1,NA,3,NA,2006,Round of 16,France
+Italy,Australia,1,NA,0,NA,2006,Round of 16,Italy
+Switzerland,Ukraine,0,0,0,3,2006,Round of 16,Tie
+England,Ecuador,1,NA,0,NA,2006,Round of 16,England
+Portugal,Netherlands,1,NA,0,NA,2006,Round of 16,Portugal
+Germany,Sweden,2,NA,0,NA,2006,Round of 16,Germany
+Argentina,Mexico,2,NA,1,NA,2006,Round of 16,Argentina
+Saudi Arabia,Spain,0,NA,1,NA,2006,Group stage,Spain
+Ukraine,Tunisia,1,NA,0,NA,2006,Group stage,Ukraine
+Togo,France,0,NA,2,NA,2006,Group stage,France
+Switzerland,Korea Republic,2,NA,0,NA,2006,Group stage,Switzerland
+Ghana,United States,2,NA,1,NA,2006,Group stage,Ghana
+Czech Republic,Italy,0,NA,2,NA,2006,Group stage,Italy
+Japan,Brazil,1,NA,4,NA,2006,Group stage,Brazil
+Croatia,Australia,2,NA,2,NA,2006,Group stage,Tie
+Portugal,Mexico,2,NA,1,NA,2006,Group stage,Portugal
+IR Iran,Angola,1,NA,1,NA,2006,Group stage,Tie
+Côte d'Ivoire,Serbia and Montenegro,3,NA,2,NA,2006,Group stage,Côte d'Ivoire
+Netherlands,Argentina,0,NA,0,NA,2006,Group stage,Tie
+Costa Rica,Poland,1,NA,2,NA,2006,Group stage,Poland
+Ecuador,Germany,0,NA,3,NA,2006,Group stage,Germany
+Paraguay,Trinidad and Tobago,2,NA,0,NA,2006,Group stage,Paraguay
+Sweden,England,2,NA,2,NA,2006,Group stage,Tie
+Togo,Switzerland,0,NA,2,NA,2006,Group stage,Switzerland
+Saudi Arabia,Ukraine,0,NA,4,NA,2006,Group stage,Ukraine
+Spain,Tunisia,3,NA,1,NA,2006,Group stage,Spain
+Japan,Croatia,0,NA,0,NA,2006,Group stage,Tie
+Brazil,Australia,2,NA,0,NA,2006,Group stage,Brazil
+France,Korea Republic,1,NA,1,NA,2006,Group stage,Tie
+Portugal,IR Iran,2,NA,0,NA,2006,Group stage,Portugal
+Czech Republic,Ghana,0,NA,2,NA,2006,Group stage,Ghana
+Italy,United States,1,NA,1,NA,2006,Group stage,Tie
+Argentina,Serbia and Montenegro,6,NA,0,NA,2006,Group stage,Argentina
+Netherlands,Côte d'Ivoire,2,NA,1,NA,2006,Group stage,Netherlands
+Mexico,Angola,0,NA,0,NA,2006,Group stage,Tie
+Ecuador,Costa Rica,3,NA,0,NA,2006,Group stage,Ecuador
+England,Trinidad and Tobago,2,NA,0,NA,2006,Group stage,England
+Sweden,Paraguay,1,NA,0,NA,2006,Group stage,Sweden
+Spain,Ukraine,4,NA,0,NA,2006,Group stage,Spain
+Tunisia,Saudi Arabia,2,NA,2,NA,2006,Group stage,Tie
+Germany,Poland,1,NA,0,NA,2006,Group stage,Germany
+Korea Republic,Togo,2,NA,1,NA,2006,Group stage,Korea Republic
+France,Switzerland,0,NA,0,NA,2006,Group stage,Tie
+Brazil,Croatia,1,NA,0,NA,2006,Group stage,Brazil
+Australia,Japan,3,NA,1,NA,2006,Group stage,Australia
+United States,Czech Republic,0,NA,3,NA,2006,Group stage,Czech Republic
+Italy,Ghana,2,NA,0,NA,2006,Group stage,Italy
+Serbia and Montenegro,Netherlands,0,NA,1,NA,2006,Group stage,Netherlands
+Mexico,IR Iran,3,NA,1,NA,2006,Group stage,Mexico
+Angola,Portugal,0,NA,1,NA,2006,Group stage,Portugal
+England,Paraguay,1,NA,0,NA,2006,Group stage,England
+Trinidad and Tobago,Sweden,0,NA,0,NA,2006,Group stage,Tie
+Argentina,Côte d'Ivoire,2,NA,1,NA,2006,Group stage,Argentina
+Germany,Costa Rica,4,NA,2,NA,2006,Group stage,Germany
+Poland,Ecuador,0,NA,2,NA,2006,Group stage,Ecuador
+Germany,Brazil,0,NA,2,NA,2002,Final,Brazil
+Korea Republic,Turkey,2,NA,3,NA,2002,Third-place match,Turkey
+Brazil,Turkey,1,NA,0,NA,2002,Semi-finals,Brazil
+Germany,Korea Republic,1,NA,0,NA,2002,Semi-finals,Germany
+Spain,Korea Republic,0,3,0,5,2002,Quarter-finals,Tie
+Senegal,Turkey,0,NA,1,NA,2002,Quarter-finals,Turkey
+England,Brazil,1,NA,2,NA,2002,Quarter-finals,Brazil
+Germany,United States,1,NA,0,NA,2002,Quarter-finals,Germany
+Japan,Turkey,0,NA,1,NA,2002,Round of 16,Turkey
+Korea Republic,Italy,2,NA,1,NA,2002,Round of 16,Korea Republic
+Mexico,United States,0,NA,2,NA,2002,Round of 16,United States
+Brazil,Belgium,2,NA,0,NA,2002,Round of 16,Brazil
+Sweden,Senegal,1,NA,2,NA,2002,Round of 16,Senegal
+Spain,Republic of Ireland,1,3,1,2,2002,Round of 16,Tie
+Germany,Paraguay,1,NA,0,NA,2002,Round of 16,Germany
+Denmark,England,0,NA,3,NA,2002,Round of 16,England
+Tunisia,Japan,0,NA,2,NA,2002,Group stage,Japan
+Belgium,Russia,3,NA,2,NA,2002,Group stage,Belgium
+Portugal,Korea Republic,0,NA,1,NA,2002,Group stage,Korea Republic
+Poland,United States,3,NA,1,NA,2002,Group stage,Poland
+Costa Rica,Brazil,2,NA,5,NA,2002,Group stage,Brazil
+Turkey,China PR,3,NA,0,NA,2002,Group stage,Turkey
+Mexico,Italy,1,NA,1,NA,2002,Group stage,Tie
+Ecuador,Croatia,1,NA,0,NA,2002,Group stage,Ecuador
+Sweden,Argentina,1,NA,1,NA,2002,Group stage,Tie
+Nigeria,England,0,NA,0,NA,2002,Group stage,Tie
+South Africa,Spain,2,NA,3,NA,2002,Group stage,Spain
+Slovenia,Paraguay,1,NA,3,NA,2002,Group stage,Paraguay
+Denmark,France,2,NA,0,NA,2002,Group stage,Denmark
+Senegal,Uruguay,3,NA,3,NA,2002,Group stage,Tie
+Saudi Arabia,Republic of Ireland,0,NA,3,NA,2002,Group stage,Republic of Ireland
+Cameroon,Germany,0,NA,2,NA,2002,Group stage,Germany
+Korea Republic,United States,1,NA,1,NA,2002,Group stage,Tie
+Tunisia,Belgium,1,NA,1,NA,2002,Group stage,Tie
+Portugal,Poland,4,NA,0,NA,2002,Group stage,Portugal
+Mexico,Ecuador,2,NA,1,NA,2002,Group stage,Mexico
+Costa Rica,Turkey,1,NA,1,NA,2002,Group stage,Tie
+Japan,Russia,1,NA,0,NA,2002,Group stage,Japan
+South Africa,Slovenia,1,NA,0,NA,2002,Group stage,South Africa
+Italy,Croatia,1,NA,2,NA,2002,Group stage,Croatia
+Brazil,China PR,4,NA,0,NA,2002,Group stage,Brazil
+Sweden,Nigeria,2,NA,1,NA,2002,Group stage,Sweden
+Spain,Paraguay,3,NA,1,NA,2002,Group stage,Spain
+Argentina,England,0,NA,1,NA,2002,Group stage,England
+Denmark,Senegal,1,NA,1,NA,2002,Group stage,Tie
+Cameroon,Saudi Arabia,1,NA,0,NA,2002,Group stage,Cameroon
+France,Uruguay,0,NA,0,NA,2002,Group stage,Tie
+Russia,Tunisia,2,NA,0,NA,2002,Group stage,Russia
+United States,Portugal,3,NA,2,NA,2002,Group stage,United States
+Germany,Republic of Ireland,1,NA,1,NA,2002,Group stage,Tie
+China PR,Costa Rica,0,NA,2,NA,2002,Group stage,Costa Rica
+Japan,Belgium,2,NA,2,NA,2002,Group stage,Tie
+Korea Republic,Poland,2,NA,0,NA,2002,Group stage,Korea Republic
+Croatia,Mexico,0,NA,1,NA,2002,Group stage,Mexico
+Brazil,Turkey,2,NA,1,NA,2002,Group stage,Brazil
+Italy,Ecuador,2,NA,0,NA,2002,Group stage,Italy
+Argentina,Nigeria,1,NA,0,NA,2002,Group stage,Argentina
+Paraguay,South Africa,2,NA,2,NA,2002,Group stage,Tie
+England,Sweden,1,NA,1,NA,2002,Group stage,Tie
+Spain,Slovenia,3,NA,1,NA,2002,Group stage,Spain
+Republic of Ireland,Cameroon,1,NA,1,NA,2002,Group stage,Tie
+Uruguay,Denmark,1,NA,2,NA,2002,Group stage,Denmark
+Germany,Saudi Arabia,8,NA,0,NA,2002,Group stage,Germany
+France,Senegal,0,NA,1,NA,2002,Group stage,Senegal
+Brazil,France,0,NA,3,NA,1998,Final,France
+Netherlands,Croatia,1,NA,2,NA,1998,Third-place match,Croatia
+France,Croatia,2,NA,1,NA,1998,Semi-finals,France
+Brazil,Netherlands,1,4,1,2,1998,Semi-finals,Tie
+Netherlands,Argentina,2,NA,1,NA,1998,Quarter-finals,Netherlands
+Germany,Croatia,0,NA,3,NA,1998,Quarter-finals,Croatia
+Italy,France,0,3,0,4,1998,Quarter-finals,Tie
+Brazil,Denmark,3,NA,2,NA,1998,Quarter-finals,Brazil
+Romania,Croatia,0,NA,1,NA,1998,Round of 16,Croatia
+Argentina,England,2,4,2,3,1998,Round of 16,Tie
+Germany,Mexico,2,NA,1,NA,1998,Round of 16,Germany
+Netherlands,FR Yugoslavia,2,NA,1,NA,1998,Round of 16,Netherlands
+France,Paraguay,1,NA,0,NA,1998,Round of 16,France
+Nigeria,Denmark,1,NA,4,NA,1998,Round of 16,Denmark
+Italy,Norway,1,NA,0,NA,1998,Round of 16,Italy
+Brazil,Chile,4,NA,1,NA,1998,Round of 16,Brazil
+Argentina,Croatia,1,NA,0,NA,1998,Group stage,Argentina
+Japan,Jamaica,1,NA,2,NA,1998,Group stage,Jamaica
+Romania,Tunisia,1,NA,1,NA,1998,Group stage,Tie
+Colombia,England,0,NA,2,NA,1998,Group stage,England
+Netherlands,Mexico,2,NA,2,NA,1998,Group stage,Tie
+Belgium,Korea Republic,1,NA,1,NA,1998,Group stage,Tie
+United States,FR Yugoslavia,0,NA,1,NA,1998,Group stage,FR Yugoslavia
+Germany,IR Iran,2,NA,0,NA,1998,Group stage,Germany
+South Africa,Saudi Arabia,2,NA,2,NA,1998,Group stage,Tie
+France,Denmark,2,NA,1,NA,1998,Group stage,France
+Spain,Bulgaria,6,NA,1,NA,1998,Group stage,Spain
+Nigeria,Paraguay,1,NA,3,NA,1998,Group stage,Paraguay
+Italy,Austria,2,NA,1,NA,1998,Group stage,Italy
+Chile,Cameroon,1,NA,1,NA,1998,Group stage,Tie
+Brazil,Norway,1,NA,2,NA,1998,Group stage,Norway
+Scotland,Morocco,0,NA,3,NA,1998,Group stage,Morocco
+Colombia,Tunisia,1,NA,0,NA,1998,Group stage,Colombia
+Romania,England,2,NA,1,NA,1998,Group stage,Romania
+Germany,FR Yugoslavia,2,NA,2,NA,1998,Group stage,Tie
+Argentina,Jamaica,5,NA,0,NA,1998,Group stage,Argentina
+United States,IR Iran,1,NA,2,NA,1998,Group stage,IR Iran
+Japan,Croatia,0,NA,1,NA,1998,Group stage,Croatia
+Belgium,Mexico,2,NA,2,NA,1998,Group stage,Tie
+Netherlands,Korea Republic,5,NA,0,NA,1998,Group stage,Netherlands
+Nigeria,Bulgaria,1,NA,0,NA,1998,Group stage,Nigeria
+Spain,Paraguay,0,NA,0,NA,1998,Group stage,Tie
+South Africa,Denmark,1,NA,1,NA,1998,Group stage,Tie
+France,Saudi Arabia,4,NA,0,NA,1998,Group stage,France
+Chile,Austria,1,NA,1,NA,1998,Group stage,Tie
+Italy,Cameroon,3,NA,0,NA,1998,Group stage,Italy
+Scotland,Norway,1,NA,1,NA,1998,Group stage,Tie
+Brazil,Morocco,3,NA,0,NA,1998,Group stage,Brazil
+England,Tunisia,2,NA,0,NA,1998,Group stage,England
+Romania,Colombia,1,NA,0,NA,1998,Group stage,Romania
+Germany,United States,2,NA,0,NA,1998,Group stage,Germany
+Argentina,Japan,1,NA,0,NA,1998,Group stage,Argentina
+FR Yugoslavia,IR Iran,1,NA,0,NA,1998,Group stage,FR Yugoslavia
+Jamaica,Croatia,1,NA,3,NA,1998,Group stage,Croatia
+Spain,Nigeria,2,NA,3,NA,1998,Group stage,Nigeria
+Korea Republic,Mexico,1,NA,3,NA,1998,Group stage,Mexico
+Netherlands,Belgium,0,NA,0,NA,1998,Group stage,Tie
+Paraguay,Bulgaria,0,NA,0,NA,1998,Group stage,Tie
+Saudi Arabia,Denmark,0,NA,1,NA,1998,Group stage,Denmark
+France,South Africa,3,NA,0,NA,1998,Group stage,France
+Italy,Chile,2,NA,2,NA,1998,Group stage,Tie
+Cameroon,Austria,1,NA,1,NA,1998,Group stage,Tie
+Brazil,Scotland,2,NA,1,NA,1998,Group stage,Brazil
+Morocco,Norway,2,NA,2,NA,1998,Group stage,Tie
+Brazil,Italy,0,3,0,2,1994,Final,Brazil
+Sweden,Bulgaria,4,NA,0,NA,1994,Third-place match,Sweden
+Bulgaria,Italy,1,NA,2,NA,1994,Semi-finals,Italy
+Sweden,Brazil,0,NA,1,NA,1994,Semi-finals,Brazil
+Bulgaria,Germany,2,NA,1,NA,1994,Quarter-finals,Bulgaria
+Romania,Sweden,2,4,2,5,1994,Quarter-finals,Tie
+Italy,Spain,2,NA,1,NA,1994,Quarter-finals,Italy
+Netherlands,Brazil,2,NA,3,NA,1994,Quarter-finals,Brazil
+Nigeria,Italy,1,NA,2,NA,1994,Round of 16,Italy
+Mexico,Bulgaria,1,1,1,3,1994,Round of 16,Tie
+Netherlands,Republic of Ireland,2,NA,0,NA,1994,Round of 16,Netherlands
+Brazil,United States,1,NA,0,NA,1994,Round of 16,Brazil
+Saudi Arabia,Sweden,1,NA,3,NA,1994,Round of 16,Sweden
+Romania,Argentina,3,NA,2,NA,1994,Round of 16,Romania
+Germany,Belgium,3,NA,2,NA,1994,Round of 16,Germany
+Spain,Switzerland,3,NA,0,NA,1994,Round of 16,Spain
+Greece,Nigeria,0,NA,2,NA,1994,Group stage,Nigeria
+Argentina,Bulgaria,0,NA,2,NA,1994,Group stage,Bulgaria
+Morocco,Netherlands,1,NA,2,NA,1994,Group stage,Netherlands
+Belgium,Saudi Arabia,0,NA,1,NA,1994,Group stage,Saudi Arabia
+Italy,Mexico,1,NA,1,NA,1994,Group stage,Tie
+Republic of Ireland,Norway,0,NA,0,NA,1994,Group stage,Tie
+Russia,Cameroon,6,NA,1,NA,1994,Group stage,Russia
+Brazil,Sweden,1,NA,1,NA,1994,Group stage,Tie
+Germany,Korea Republic,3,NA,2,NA,1994,Group stage,Germany
+Bolivia,Spain,1,NA,3,NA,1994,Group stage,Spain
+Bulgaria,Greece,4,NA,0,NA,1994,Group stage,Bulgaria
+United States,Romania,0,NA,1,NA,1994,Group stage,Romania
+Switzerland,Colombia,0,NA,2,NA,1994,Group stage,Colombia
+Belgium,Netherlands,1,NA,0,NA,1994,Group stage,Belgium
+Saudi Arabia,Morocco,2,NA,1,NA,1994,Group stage,Saudi Arabia
+Argentina,Nigeria,2,NA,1,NA,1994,Group stage,Argentina
+Mexico,Republic of Ireland,2,NA,1,NA,1994,Group stage,Mexico
+Brazil,Cameroon,3,NA,0,NA,1994,Group stage,Brazil
+Sweden,Russia,3,NA,1,NA,1994,Group stage,Sweden
+Italy,Norway,1,NA,0,NA,1994,Group stage,Italy
+Korea Republic,Bolivia,0,NA,0,NA,1994,Group stage,Tie
+Romania,Switzerland,1,NA,4,NA,1994,Group stage,Switzerland
+United States,Colombia,2,NA,1,NA,1994,Group stage,United States
+Argentina,Greece,4,NA,0,NA,1994,Group stage,Argentina
+Germany,Spain,1,NA,1,NA,1994,Group stage,Tie
+Nigeria,Bulgaria,3,NA,0,NA,1994,Group stage,Nigeria
+Brazil,Russia,2,NA,0,NA,1994,Group stage,Brazil
+Netherlands,Saudi Arabia,2,NA,1,NA,1994,Group stage,Netherlands
+Belgium,Morocco,1,NA,0,NA,1994,Group stage,Belgium
+Norway,Mexico,1,NA,0,NA,1994,Group stage,Norway
+Cameroon,Sweden,2,NA,2,NA,1994,Group stage,Tie
+United States,Switzerland,1,NA,1,NA,1994,Group stage,Tie
+Italy,Republic of Ireland,0,NA,1,NA,1994,Group stage,Republic of Ireland
+Colombia,Romania,1,NA,3,NA,1994,Group stage,Romania
+Germany,Bolivia,1,NA,0,NA,1994,Group stage,Germany
+Spain,Korea Republic,2,NA,2,NA,1994,Group stage,Tie
+West Germany,Argentina,1,NA,0,NA,1990,Final,West Germany
+Italy,England,2,NA,1,NA,1990,Third-place match,Italy
+West Germany,England,1,4,1,3,1990,Semi-finals,Tie
+Italy,Argentina,1,3,1,4,1990,Semi-finals,Tie
+West Germany,Czechoslovakia,1,NA,0,NA,1990,Quarter-finals,West Germany
+England,Cameroon,3,NA,2,NA,1990,Quarter-finals,England
+Yugoslavia,Argentina,0,2,0,3,1990,Quarter-finals,Tie
+Italy,Republic of Ireland,1,NA,0,NA,1990,Quarter-finals,Italy
+Spain,Yugoslavia,1,NA,2,NA,1990,Round of 16,Yugoslavia
+England,Belgium,1,NA,0,NA,1990,Round of 16,England
+Republic of Ireland,Romania,0,5,0,4,1990,Round of 16,Tie
+Italy,Uruguay,2,NA,0,NA,1990,Round of 16,Italy
+Brazil,Argentina,0,NA,1,NA,1990,Round of 16,Argentina
+West Germany,Netherlands,2,NA,1,NA,1990,Round of 16,West Germany
+Cameroon,Colombia,2,NA,1,NA,1990,Round of 16,Cameroon
+Czechoslovakia,Costa Rica,4,NA,1,NA,1990,Round of 16,Czechoslovakia
+Belgium,Spain,1,NA,2,NA,1990,Group stage,Spain
+Korea Republic,Uruguay,0,NA,1,NA,1990,Group stage,Uruguay
+Republic of Ireland,Netherlands,1,NA,1,NA,1990,Group stage,Tie
+England,Egypt,1,NA,0,NA,1990,Group stage,England
+Sweden,Costa Rica,1,NA,2,NA,1990,Group stage,Costa Rica
+Brazil,Scotland,1,NA,0,NA,1990,Group stage,Brazil
+West Germany,Colombia,1,NA,1,NA,1990,Group stage,Tie
+Yugoslavia,United Arab Emirates,4,NA,1,NA,1990,Group stage,Yugoslavia
+Austria,United States,2,NA,1,NA,1990,Group stage,Austria
+Italy,Czechoslovakia,2,NA,0,NA,1990,Group stage,Italy
+Argentina,Romania,1,NA,1,NA,1990,Group stage,Tie
+Cameroon,Soviet Union,0,NA,4,NA,1990,Group stage,Soviet Union
+Republic of Ireland,Egypt,0,NA,0,NA,1990,Group stage,Tie
+Belgium,Uruguay,3,NA,1,NA,1990,Group stage,Belgium
+Korea Republic,Spain,1,NA,3,NA,1990,Group stage,Spain
+Brazil,Costa Rica,1,NA,0,NA,1990,Group stage,Brazil
+England,Netherlands,0,NA,0,NA,1990,Group stage,Tie
+Sweden,Scotland,1,NA,2,NA,1990,Group stage,Scotland
+Austria,Czechoslovakia,0,NA,1,NA,1990,Group stage,Czechoslovakia
+West Germany,United Arab Emirates,5,NA,1,NA,1990,Group stage,West Germany
+Yugoslavia,Colombia,1,NA,0,NA,1990,Group stage,Yugoslavia
+Cameroon,Romania,2,NA,1,NA,1990,Group stage,Cameroon
+Italy,United States,1,NA,0,NA,1990,Group stage,Italy
+Uruguay,Spain,0,NA,0,NA,1990,Group stage,Tie
+Argentina,Soviet Union,2,NA,0,NA,1990,Group stage,Argentina
+Belgium,Korea Republic,2,NA,0,NA,1990,Group stage,Belgium
+Netherlands,Egypt,1,NA,1,NA,1990,Group stage,Tie
+Costa Rica,Scotland,1,NA,0,NA,1990,Group stage,Costa Rica
+England,Republic of Ireland,1,NA,1,NA,1990,Group stage,Tie
+United States,Czechoslovakia,1,NA,5,NA,1990,Group stage,Czechoslovakia
+West Germany,Yugoslavia,4,NA,1,NA,1990,Group stage,West Germany
+Brazil,Sweden,2,NA,1,NA,1990,Group stage,Brazil
+United Arab Emirates,Colombia,0,NA,2,NA,1990,Group stage,Colombia
+Soviet Union,Romania,0,NA,2,NA,1990,Group stage,Romania
+Italy,Austria,1,NA,0,NA,1990,Group stage,Italy
+Argentina,Cameroon,0,NA,1,NA,1990,Group stage,Cameroon
+Argentina,West Germany,3,NA,2,NA,1986,Final,Argentina
+France,Belgium,4,NA,2,NA,1986,Third-place match,France
+France,West Germany,0,NA,2,NA,1986,Semi-finals,West Germany
+Argentina,Belgium,2,NA,0,NA,1986,Semi-finals,Argentina
+Argentina,England,2,NA,1,NA,1986,Quarter-finals,Argentina
+Spain,Belgium,1,4,1,5,1986,Quarter-finals,Tie
+Brazil,France,1,3,1,4,1986,Quarter-finals,Tie
+West Germany,Mexico,0,4,0,1,1986,Quarter-finals,Tie
+England,Paraguay,3,NA,0,NA,1986,Round of 16,England
+Denmark,Spain,1,NA,5,NA,1986,Round of 16,Spain
+Italy,France,0,NA,2,NA,1986,Round of 16,France
+Morocco,West Germany,0,NA,1,NA,1986,Round of 16,West Germany
+Brazil,Poland,4,NA,0,NA,1986,Round of 16,Brazil
+Argentina,Uruguay,1,NA,0,NA,1986,Round of 16,Argentina
+Mexico,Bulgaria,2,NA,0,NA,1986,Round of 16,Mexico
+Soviet Union,Belgium,3,NA,4,NA,1986,Round of 16,Belgium
+Scotland,Uruguay,0,NA,0,NA,1986,Group stage,Tie
+Denmark,West Germany,2,NA,0,NA,1986,Group stage,Denmark
+Algeria,Spain,0,NA,3,NA,1986,Group stage,Spain
+Northern Ireland,Brazil,0,NA,3,NA,1986,Group stage,Brazil
+Paraguay,Belgium,2,NA,2,NA,1986,Group stage,Tie
+Iraq,Mexico,0,NA,1,NA,1986,Group stage,Mexico
+England,Poland,3,NA,0,NA,1986,Group stage,England
+Portugal,Morocco,1,NA,3,NA,1986,Group stage,Morocco
+Argentina,Bulgaria,2,NA,0,NA,1986,Group stage,Argentina
+Korea Republic,Italy,2,NA,3,NA,1986,Group stage,Italy
+Soviet Union,Canada,2,NA,0,NA,1986,Group stage,Soviet Union
+Hungary,France,0,NA,3,NA,1986,Group stage,France
+West Germany,Scotland,2,NA,1,NA,1986,Group stage,West Germany
+Iraq,Belgium,1,NA,2,NA,1986,Group stage,Belgium
+Denmark,Uruguay,6,NA,1,NA,1986,Group stage,Denmark
+Mexico,Paraguay,1,NA,1,NA,1986,Group stage,Tie
+Northern Ireland,Spain,1,NA,2,NA,1986,Group stage,Spain
+Poland,Portugal,1,NA,0,NA,1986,Group stage,Poland
+Brazil,Algeria,1,NA,0,NA,1986,Group stage,Brazil
+Hungary,Canada,2,NA,0,NA,1986,Group stage,Hungary
+England,Morocco,0,NA,0,NA,1986,Group stage,Tie
+Italy,Argentina,1,NA,1,NA,1986,Group stage,Tie
+France,Soviet Union,1,NA,1,NA,1986,Group stage,Tie
+Korea Republic,Bulgaria,1,NA,1,NA,1986,Group stage,Tie
+Paraguay,Iraq,1,NA,0,NA,1986,Group stage,Paraguay
+Uruguay,West Germany,1,NA,1,NA,1986,Group stage,Tie
+Scotland,Denmark,0,NA,1,NA,1986,Group stage,Denmark
+Belgium,Mexico,1,NA,2,NA,1986,Group stage,Mexico
+Algeria,Northern Ireland,1,NA,1,NA,1986,Group stage,Tie
+Portugal,England,1,NA,0,NA,1986,Group stage,Portugal
+Soviet Union,Hungary,6,NA,0,NA,1986,Group stage,Soviet Union
+Argentina,Korea Republic,3,NA,1,NA,1986,Group stage,Argentina
+Morocco,Poland,0,NA,0,NA,1986,Group stage,Tie
+Spain,Brazil,0,NA,1,NA,1986,Group stage,Brazil
+Canada,France,0,NA,1,NA,1986,Group stage,France
+Bulgaria,Italy,1,NA,1,NA,1986,Group stage,Tie
+Italy,West Germany,3,NA,1,NA,1982,Final,Italy
+Poland,France,3,NA,2,NA,1982,Third-place match,Poland
+Poland,Italy,0,NA,2,NA,1982,Semi-finals,Italy
+West Germany,France,3,5,3,4,1982,Semi-finals,Tie
+Italy,Brazil,3,NA,2,NA,1982,Second group stage,Italy
+Spain,England,0,NA,0,NA,1982,Second group stage,Tie
+France,Northern Ireland,4,NA,1,NA,1982,Second group stage,France
+Poland,Soviet Union,0,NA,0,NA,1982,Second group stage,Tie
+Argentina,Brazil,1,NA,3,NA,1982,Second group stage,Brazil
+West Germany,Spain,2,NA,1,NA,1982,Second group stage,West Germany
+Austria,Northern Ireland,2,NA,2,NA,1982,Second group stage,Tie
+Belgium,Soviet Union,0,NA,1,NA,1982,Second group stage,Soviet Union
+Italy,Argentina,2,NA,1,NA,1982,Second group stage,Italy
+West Germany,England,0,NA,0,NA,1982,Second group stage,Tie
+Austria,France,0,NA,1,NA,1982,Second group stage,France
+Poland,Belgium,3,NA,0,NA,1982,Second group stage,Poland
+England,Kuwait,1,NA,0,NA,1982,First group stage,England
+West Germany,Austria,1,NA,0,NA,1982,First group stage,West Germany
+Northern Ireland,Spain,1,NA,0,NA,1982,First group stage,Northern Ireland
+France,Czechoslovakia,1,NA,1,NA,1982,First group stage,Tie
+Algeria,Chile,3,NA,2,NA,1982,First group stage,Algeria
+Honduras,Yugoslavia,0,NA,1,NA,1982,First group stage,Yugoslavia
+Italy,Cameroon,1,NA,1,NA,1982,First group stage,Tie
+Argentina,El Salvador,2,NA,0,NA,1982,First group stage,Argentina
+Brazil,New Zealand,4,NA,0,NA,1982,First group stage,Brazil
+Poland,Peru,5,NA,1,NA,1982,First group stage,Poland
+Belgium,Hungary,1,NA,1,NA,1982,First group stage,Tie
+Soviet Union,Scotland,2,NA,2,NA,1982,First group stage,Tie
+Algeria,Austria,0,NA,2,NA,1982,First group stage,Austria
+France,Kuwait,4,NA,1,NA,1982,First group stage,France
+Honduras,Northern Ireland,1,NA,1,NA,1982,First group stage,Tie
+West Germany,Chile,4,NA,1,NA,1982,First group stage,West Germany
+England,Czechoslovakia,2,NA,0,NA,1982,First group stage,England
+Spain,Yugoslavia,2,NA,1,NA,1982,First group stage,Spain
+Poland,Cameroon,0,NA,0,NA,1982,First group stage,Tie
+Soviet Union,New Zealand,3,NA,0,NA,1982,First group stage,Soviet Union
+Belgium,El Salvador,1,NA,0,NA,1982,First group stage,Belgium
+Italy,Peru,1,NA,1,NA,1982,First group stage,Tie
+Brazil,Scotland,4,NA,1,NA,1982,First group stage,Brazil
+Argentina,Hungary,4,NA,1,NA,1982,First group stage,Argentina
+Chile,Austria,0,NA,1,NA,1982,First group stage,Austria
+Czechoslovakia,Kuwait,1,NA,1,NA,1982,First group stage,Tie
+Yugoslavia,Northern Ireland,0,NA,0,NA,1982,First group stage,Tie
+England,France,3,NA,1,NA,1982,First group stage,England
+West Germany,Algeria,1,NA,2,NA,1982,First group stage,Algeria
+Spain,Honduras,1,NA,1,NA,1982,First group stage,Tie
+Peru,Cameroon,0,NA,0,NA,1982,First group stage,Tie
+Hungary,El Salvador,10,NA,1,NA,1982,First group stage,Hungary
+Scotland,New Zealand,5,NA,2,NA,1982,First group stage,Scotland
+Italy,Poland,0,NA,0,NA,1982,First group stage,Tie
+Brazil,Soviet Union,2,NA,1,NA,1982,First group stage,Brazil
+Argentina,Belgium,0,NA,1,NA,1982,First group stage,Belgium
+Argentina,Netherlands,3,NA,1,NA,1978,Final,Argentina
+Brazil,Italy,2,NA,1,NA,1978,Third-place match,Brazil
+Netherlands,Italy,2,NA,1,NA,1978,Second round,Netherlands
+Austria,West Germany,3,NA,2,NA,1978,Second round,Austria
+Brazil,Poland,3,NA,1,NA,1978,Second round,Brazil
+Argentina,Peru,6,NA,0,NA,1978,Second round,Argentina
+Poland,Peru,1,NA,0,NA,1978,Second round,Poland
+West Germany,Netherlands,2,NA,2,NA,1978,Second round,Tie
+Italy,Austria,1,NA,0,NA,1978,Second round,Italy
+Argentina,Brazil,0,NA,0,NA,1978,Second round,Tie
+Netherlands,Austria,5,NA,1,NA,1978,Second round,Netherlands
+West Germany,Italy,0,NA,0,NA,1978,Second round,Tie
+Brazil,Peru,3,NA,0,NA,1978,Second round,Brazil
+Argentina,Poland,2,NA,0,NA,1978,Second round,Argentina
+Brazil,Austria,1,NA,0,NA,1978,First round,Brazil
+Spain,Sweden,1,NA,0,NA,1978,First round,Spain
+Peru,IR Iran,4,NA,1,NA,1978,First round,Peru
+Scotland,Netherlands,3,NA,2,NA,1978,First round,Scotland
+France,Hungary,3,NA,1,NA,1978,First round,France
+Poland,Mexico,3,NA,1,NA,1978,First round,Poland
+West Germany,Tunisia,0,NA,0,NA,1978,First round,Tie
+Italy,Argentina,1,NA,0,NA,1978,First round,Italy
+Austria,Sweden,1,NA,0,NA,1978,First round,Austria
+Brazil,Spain,0,NA,0,NA,1978,First round,Tie
+Netherlands,Peru,0,NA,0,NA,1978,First round,Tie
+Scotland,IR Iran,1,NA,1,NA,1978,First round,Tie
+Italy,Hungary,3,NA,1,NA,1978,First round,Italy
+West Germany,Mexico,6,NA,0,NA,1978,First round,West Germany
+Poland,Tunisia,1,NA,0,NA,1978,First round,Poland
+Argentina,France,2,NA,1,NA,1978,First round,Argentina
+Sweden,Brazil,1,NA,1,NA,1978,First round,Tie
+Austria,Spain,2,NA,1,NA,1978,First round,Austria
+Peru,Scotland,3,NA,1,NA,1978,First round,Peru
+Netherlands,IR Iran,3,NA,0,NA,1978,First round,Netherlands
+Italy,France,2,NA,1,NA,1978,First round,Italy
+Tunisia,Mexico,3,NA,1,NA,1978,First round,Tunisia
+Argentina,Hungary,2,NA,1,NA,1978,First round,Argentina
+West Germany,Poland,0,NA,0,NA,1978,First round,Tie
+Netherlands,West Germany,1,NA,2,NA,1974,Final,West Germany
+Brazil,Poland,0,NA,1,NA,1974,Third-place match,Poland
+Poland,West Germany,0,NA,1,NA,1974,Second round,West Germany
+Netherlands,Brazil,2,NA,0,NA,1974,Second round,Netherlands
+Argentina,Germany DR,1,NA,1,NA,1974,Second round,Tie
+Sweden,Yugoslavia,2,NA,1,NA,1974,Second round,Sweden
+Poland,Yugoslavia,2,NA,1,NA,1974,Second round,Poland
+Argentina,Brazil,1,NA,2,NA,1974,Second round,Brazil
+Germany DR,Netherlands,0,NA,2,NA,1974,Second round,Netherlands
+West Germany,Sweden,4,NA,2,NA,1974,Second round,West Germany
+Yugoslavia,West Germany,0,NA,2,NA,1974,Second round,West Germany
+Brazil,Germany DR,1,NA,0,NA,1974,Second round,Brazil
+Sweden,Poland,0,NA,1,NA,1974,Second round,Poland
+Netherlands,Argentina,4,NA,0,NA,1974,Second round,Netherlands
+Bulgaria,Netherlands,1,NA,4,NA,1974,First round,Netherlands
+Poland,Italy,2,NA,1,NA,1974,First round,Poland
+Sweden,Uruguay,3,NA,0,NA,1974,First round,Sweden
+Argentina,Haiti,4,NA,1,NA,1974,First round,Argentina
+Scotland,Yugoslavia,1,NA,1,NA,1974,First round,Tie
+Australia,Chile,0,NA,0,NA,1974,First round,Tie
+Zaire,Brazil,0,NA,3,NA,1974,First round,Brazil
+Germany DR,West Germany,1,NA,0,NA,1974,First round,Germany DR
+Haiti,Poland,0,NA,7,NA,1974,First round,Poland
+Bulgaria,Uruguay,1,NA,1,NA,1974,First round,Tie
+Netherlands,Sweden,0,NA,0,NA,1974,First round,Tie
+Argentina,Italy,1,NA,1,NA,1974,First round,Tie
+Australia,West Germany,0,NA,3,NA,1974,First round,West Germany
+Yugoslavia,Zaire,9,NA,0,NA,1974,First round,Yugoslavia
+Chile,Germany DR,1,NA,1,NA,1974,First round,Tie
+Scotland,Brazil,0,NA,0,NA,1974,First round,Tie
+Uruguay,Netherlands,0,NA,2,NA,1974,First round,Netherlands
+Sweden,Bulgaria,0,NA,0,NA,1974,First round,Tie
+Italy,Haiti,3,NA,1,NA,1974,First round,Italy
+Poland,Argentina,3,NA,2,NA,1974,First round,Poland
+West Germany,Chile,1,NA,0,NA,1974,First round,West Germany
+Germany DR,Australia,2,NA,0,NA,1974,First round,Germany DR
+Zaire,Scotland,0,NA,2,NA,1974,First round,Scotland
+Brazil,Yugoslavia,0,NA,0,NA,1974,First round,Tie
+Brazil,Italy,4,NA,1,NA,1970,Final,Brazil
+West Germany,Uruguay,1,NA,0,NA,1970,Third-place match,West Germany
+Italy,West Germany,4,NA,3,NA,1970,Semi-finals,Italy
+Brazil,Uruguay,3,NA,1,NA,1970,Semi-finals,Brazil
+Brazil,Peru,4,NA,2,NA,1970,Quarter-finals,Brazil
+Italy,Mexico,4,NA,1,NA,1970,Quarter-finals,Italy
+Uruguay,Soviet Union,1,NA,0,NA,1970,Quarter-finals,Uruguay
+West Germany,England,3,NA,2,NA,1970,Quarter-finals,West Germany
+Mexico,Belgium,1,NA,0,NA,1970,Group stage,Mexico
+Italy,Israel,0,NA,0,NA,1970,Group stage,Tie
+Bulgaria,Morocco,1,NA,1,NA,1970,Group stage,Tie
+England,Czechoslovakia,1,NA,0,NA,1970,Group stage,England
+West Germany,Peru,3,NA,1,NA,1970,Group stage,West Germany
+Brazil,Romania,3,NA,2,NA,1970,Group stage,Brazil
+Sweden,Uruguay,1,NA,0,NA,1970,Group stage,Sweden
+Soviet Union,El Salvador,2,NA,0,NA,1970,Group stage,Soviet Union
+Mexico,El Salvador,4,NA,0,NA,1970,Group stage,Mexico
+Brazil,England,1,NA,0,NA,1970,Group stage,Brazil
+West Germany,Bulgaria,5,NA,2,NA,1970,Group stage,West Germany
+Sweden,Israel,1,NA,1,NA,1970,Group stage,Tie
+Romania,Czechoslovakia,2,NA,1,NA,1970,Group stage,Romania
+Uruguay,Italy,0,NA,0,NA,1970,Group stage,Tie
+Soviet Union,Belgium,4,NA,1,NA,1970,Group stage,Soviet Union
+Peru,Morocco,3,NA,0,NA,1970,Group stage,Peru
+Belgium,El Salvador,3,NA,0,NA,1970,Group stage,Belgium
+Brazil,Czechoslovakia,4,NA,1,NA,1970,Group stage,Brazil
+Italy,Sweden,1,NA,0,NA,1970,Group stage,Italy
+West Germany,Morocco,2,NA,1,NA,1970,Group stage,West Germany
+England,Romania,1,NA,0,NA,1970,Group stage,England
+Peru,Bulgaria,3,NA,2,NA,1970,Group stage,Peru
+Uruguay,Israel,2,NA,0,NA,1970,Group stage,Uruguay
+Mexico,Soviet Union,0,NA,0,NA,1970,Group stage,Tie
+England,West Germany,4,NA,2,NA,1966,Final,England
+Portugal,Soviet Union,2,NA,1,NA,1966,Third-place match,Portugal
+England,Portugal,2,NA,1,NA,1966,Semi-finals,England
+West Germany,Soviet Union,2,NA,1,NA,1966,Semi-finals,West Germany
+Portugal,Korea DPR,5,NA,3,NA,1966,Quarter-finals,Portugal
+England,Argentina,1,NA,0,NA,1966,Quarter-finals,England
+Soviet Union,Hungary,2,NA,1,NA,1966,Quarter-finals,Soviet Union
+West Germany,Uruguay,4,NA,0,NA,1966,Quarter-finals,West Germany
+England,France,2,NA,0,NA,1966,Group stage,England
+Hungary,Bulgaria,3,NA,1,NA,1966,Group stage,Hungary
+West Germany,Spain,2,NA,1,NA,1966,Group stage,West Germany
+Soviet Union,Chile,2,NA,1,NA,1966,Group stage,Soviet Union
+Uruguay,Mexico,0,NA,0,NA,1966,Group stage,Tie
+Argentina,Switzerland,2,NA,0,NA,1966,Group stage,Argentina
+Portugal,Brazil,3,NA,1,NA,1966,Group stage,Portugal
+Korea DPR,Italy,1,NA,0,NA,1966,Group stage,Korea DPR
+West Germany,Argentina,0,NA,0,NA,1966,Group stage,Tie
+Soviet Union,Italy,1,NA,0,NA,1966,Group stage,Soviet Union
+Portugal,Bulgaria,3,NA,0,NA,1966,Group stage,Portugal
+England,Mexico,2,NA,0,NA,1966,Group stage,England
+Spain,Switzerland,2,NA,1,NA,1966,Group stage,Spain
+Uruguay,France,2,NA,1,NA,1966,Group stage,Uruguay
+Hungary,Brazil,3,NA,1,NA,1966,Group stage,Hungary
+Korea DPR,Chile,1,NA,1,NA,1966,Group stage,Tie
+Argentina,Spain,2,NA,1,NA,1966,Group stage,Argentina
+France,Mexico,1,NA,1,NA,1966,Group stage,Tie
+Italy,Chile,2,NA,0,NA,1966,Group stage,Italy
+Portugal,Hungary,3,NA,1,NA,1966,Group stage,Portugal
+Brazil,Bulgaria,2,NA,0,NA,1966,Group stage,Brazil
+Soviet Union,Korea DPR,3,NA,0,NA,1966,Group stage,Soviet Union
+West Germany,Switzerland,5,NA,0,NA,1966,Group stage,West Germany
+England,Uruguay,0,NA,0,NA,1966,Group stage,Tie
+Brazil,Czechoslovakia,3,NA,1,NA,1962,Final,Brazil
+Chile,Yugoslavia,1,NA,0,NA,1962,Third-place match,Chile
+Brazil,Chile,4,NA,2,NA,1962,Semi-finals,Brazil
+Czechoslovakia,Yugoslavia,3,NA,1,NA,1962,Semi-finals,Czechoslovakia
+Chile,Soviet Union,2,NA,1,NA,1962,Quarter-finals,Chile
+Brazil,England,3,NA,1,NA,1962,Quarter-finals,Brazil
+Czechoslovakia,Hungary,1,NA,0,NA,1962,Quarter-finals,Czechoslovakia
+Yugoslavia,West Germany,1,NA,0,NA,1962,Quarter-finals,Yugoslavia
+England,Bulgaria,0,NA,0,NA,1962,Group stage,Tie
+Mexico,Czechoslovakia,3,NA,1,NA,1962,Group stage,Mexico
+Italy,Switzerland,3,NA,0,NA,1962,Group stage,Italy
+Yugoslavia,Colombia,5,NA,0,NA,1962,Group stage,Yugoslavia
+West Germany,Chile,2,NA,0,NA,1962,Group stage,West Germany
+Soviet Union,Uruguay,2,NA,1,NA,1962,Group stage,Soviet Union
+Hungary,Argentina,0,NA,0,NA,1962,Group stage,Tie
+Brazil,Spain,2,NA,1,NA,1962,Group stage,Brazil
+Spain,Mexico,1,NA,0,NA,1962,Group stage,Spain
+Soviet Union,Colombia,4,NA,4,NA,1962,Group stage,Tie
+Hungary,Bulgaria,6,NA,1,NA,1962,Group stage,Hungary
+West Germany,Switzerland,2,NA,1,NA,1962,Group stage,West Germany
+Chile,Italy,2,NA,0,NA,1962,Group stage,Chile
+Brazil,Czechoslovakia,0,NA,0,NA,1962,Group stage,Tie
+England,Argentina,3,NA,1,NA,1962,Group stage,England
+Yugoslavia,Uruguay,3,NA,1,NA,1962,Group stage,Yugoslavia
+West Germany,Italy,0,NA,0,NA,1962,Group stage,Tie
+Hungary,England,2,NA,1,NA,1962,Group stage,Hungary
+Czechoslovakia,Spain,1,NA,0,NA,1962,Group stage,Czechoslovakia
+Soviet Union,Yugoslavia,2,NA,0,NA,1962,Group stage,Soviet Union
+Chile,Switzerland,3,NA,1,NA,1962,Group stage,Chile
+Uruguay,Colombia,2,NA,1,NA,1962,Group stage,Uruguay
+Brazil,Mexico,2,NA,0,NA,1962,Group stage,Brazil
+Argentina,Bulgaria,1,NA,0,NA,1962,Group stage,Argentina
+Brazil,Sweden,5,NA,2,NA,1958,Final,Brazil
+France,West Germany,6,NA,3,NA,1958,Third-place match,France
+Sweden,West Germany,3,NA,1,NA,1958,Semi-finals,Sweden
+Brazil,France,5,NA,2,NA,1958,Semi-finals,Brazil
+France,Northern Ireland,4,NA,0,NA,1958,Quarter-finals,France
+West Germany,Yugoslavia,1,NA,0,NA,1958,Quarter-finals,West Germany
+Brazil,Wales,1,NA,0,NA,1958,Quarter-finals,Brazil
+Sweden,Soviet Union,2,NA,0,NA,1958,Quarter-finals,Sweden
+Northern Ireland,Czechoslovakia,2,NA,1,NA,1958,Group stage play-off,Northern Ireland
+Wales,Hungary,2,NA,1,NA,1958,Group stage play-off,Wales
+Soviet Union,England,1,NA,0,NA,1958,Group stage play-off,Soviet Union
+Sweden,Wales,0,NA,0,NA,1958,Group stage,Tie
+Paraguay,Yugoslavia,3,NA,3,NA,1958,Group stage,Tie
+West Germany,Northern Ireland,2,NA,2,NA,1958,Group stage,Tie
+Czechoslovakia,Argentina,6,NA,1,NA,1958,Group stage,Czechoslovakia
+England,Austria,2,NA,2,NA,1958,Group stage,Tie
+Brazil,Soviet Union,2,NA,0,NA,1958,Group stage,Brazil
+Hungary,Mexico,4,NA,0,NA,1958,Group stage,Hungary
+France,Scotland,2,NA,1,NA,1958,Group stage,France
+Sweden,Hungary,2,NA,1,NA,1958,Group stage,Sweden
+Soviet Union,Austria,2,NA,0,NA,1958,Group stage,Soviet Union
+West Germany,Czechoslovakia,2,NA,2,NA,1958,Group stage,Tie
+Argentina,Northern Ireland,3,NA,1,NA,1958,Group stage,Argentina
+Yugoslavia,France,3,NA,2,NA,1958,Group stage,Yugoslavia
+Paraguay,Scotland,3,NA,2,NA,1958,Group stage,Paraguay
+Brazil,England,0,NA,0,NA,1958,Group stage,Tie
+Mexico,Wales,1,NA,1,NA,1958,Group stage,Tie
+Sweden,Mexico,3,NA,0,NA,1958,Group stage,Sweden
+Northern Ireland,Czechoslovakia,1,NA,0,NA,1958,Group stage,Northern Ireland
+Hungary,Wales,1,NA,1,NA,1958,Group stage,Tie
+Yugoslavia,Scotland,1,NA,1,NA,1958,Group stage,Tie
+Brazil,Austria,3,NA,0,NA,1958,Group stage,Brazil
+Soviet Union,England,2,NA,2,NA,1958,Group stage,Tie
+France,Paraguay,7,NA,3,NA,1958,Group stage,France
+Argentina,West Germany,1,NA,3,NA,1958,Group stage,West Germany
+Germany,Hungary,3,NA,2,NA,1954,Final,Germany
+Austria,Uruguay,3,NA,1,NA,1954,Third-place match,Austria
+Hungary,Uruguay,4,NA,2,NA,1954,Semi-finals,Hungary
+Germany,Austria,6,NA,1,NA,1954,Semi-finals,Germany
+Germany,Yugoslavia,2,NA,0,NA,1954,Quarter-finals,Germany
+Hungary,Brazil,4,NA,2,NA,1954,Quarter-finals,Hungary
+Uruguay,England,4,NA,2,NA,1954,Quarter-finals,Uruguay
+Switzerland,Austria,5,NA,7,NA,1954,Quarter-finals,Austria
+Germany,Turkey,7,NA,2,NA,1954,Group stage play-off,Germany
+Switzerland,Italy,4,NA,1,NA,1954,Group stage play-off,Switzerland
+Hungary,Germany,8,NA,3,NA,1954,Group stage,Hungary
+Turkey,Korea Republic,7,NA,0,NA,1954,Group stage,Turkey
+Italy,Belgium,4,NA,1,NA,1954,Group stage,Italy
+Switzerland,England,0,NA,2,NA,1954,Group stage,England
+Uruguay,Scotland,7,NA,0,NA,1954,Group stage,Uruguay
+Brazil,Yugoslavia,1,NA,1,NA,1954,Group stage,Tie
+Austria,Czechoslovakia,5,NA,0,NA,1954,Group stage,Austria
+France,Mexico,3,NA,2,NA,1954,Group stage,France
+Switzerland,Italy,2,NA,1,NA,1954,Group stage,Switzerland
+Hungary,Korea Republic,9,NA,0,NA,1954,Group stage,Hungary
+Germany,Turkey,4,NA,1,NA,1954,Group stage,Germany
+England,Belgium,4,NA,4,NA,1954,Group stage,Tie
+Uruguay,Czechoslovakia,2,NA,0,NA,1954,Group stage,Uruguay
+Yugoslavia,France,1,NA,0,NA,1954,Group stage,Yugoslavia
+Brazil,Mexico,5,NA,0,NA,1954,Group stage,Brazil
+Austria,Scotland,1,NA,0,NA,1954,Group stage,Austria
+Sweden,Spain,3,NA,1,NA,1950,Final stage,Sweden
+Uruguay,Brazil,2,NA,1,NA,1950,Final stage,Uruguay
+Brazil,Spain,6,NA,1,NA,1950,Final stage,Brazil
+Uruguay,Sweden,3,NA,2,NA,1950,Final stage,Uruguay
+Brazil,Sweden,7,NA,1,NA,1950,Final stage,Brazil
+Uruguay,Spain,2,NA,2,NA,1950,Final stage,Tie
+Chile,United States,5,NA,2,NA,1950,Group stage,Chile
+Italy,Paraguay,2,NA,0,NA,1950,Group stage,Italy
+Uruguay,Bolivia,8,NA,0,NA,1950,Group stage,Uruguay
+Spain,England,1,NA,0,NA,1950,Group stage,Spain
+Switzerland,Mexico,2,NA,1,NA,1950,Group stage,Switzerland
+Brazil,Yugoslavia,2,NA,0,NA,1950,Group stage,Brazil
+Spain,Chile,2,NA,0,NA,1950,Group stage,Spain
+United States,England,1,NA,0,NA,1950,Group stage,United States
+Sweden,Paraguay,2,NA,2,NA,1950,Group stage,Tie
+Brazil,Switzerland,2,NA,2,NA,1950,Group stage,Tie
+Yugoslavia,Mexico,4,NA,1,NA,1950,Group stage,Yugoslavia
+Sweden,Italy,3,NA,2,NA,1950,Group stage,Sweden
+England,Chile,2,NA,0,NA,1950,Group stage,England
+Spain,United States,3,NA,1,NA,1950,Group stage,Spain
+Yugoslavia,Switzerland,3,NA,0,NA,1950,Group stage,Yugoslavia
+Brazil,Mexico,4,NA,0,NA,1950,Group stage,Brazil
+Brazil,Sweden,4,NA,2,NA,1938,Third-place match,Brazil
+Italy,Hungary,4,NA,2,NA,1938,Final,Italy
+Hungary,Sweden,5,NA,1,NA,1938,Semi-finals,Hungary
+Italy,Brazil,2,NA,1,NA,1938,Semi-finals,Italy
+Brazil,Czechoslovakia,2,NA,1,NA,1938,Quarter-finals,Brazil
+Sweden,Cuba,8,NA,0,NA,1938,Quarter-finals,Sweden
+Brazil,Czechoslovakia,1,NA,1,NA,1938,Quarter-finals,Tie
+Hungary,Switzerland,2,NA,0,NA,1938,Quarter-finals,Hungary
+Italy,France,3,NA,1,NA,1938,Quarter-finals,Italy
+Switzerland,Germany,4,NA,2,NA,1938,Round of 16,Switzerland
+Cuba,Romania,2,NA,1,NA,1938,Round of 16,Cuba
+Italy,Norway,2,NA,1,NA,1938,Round of 16,Italy
+Cuba,Romania,3,NA,3,NA,1938,Round of 16,Tie
+Hungary,Dutch East Indies,6,NA,0,NA,1938,Round of 16,Hungary
+France,Belgium,3,NA,1,NA,1938,Round of 16,France
+Brazil,Poland,6,NA,5,NA,1938,Round of 16,Brazil
+Czechoslovakia,Netherlands,3,NA,0,NA,1938,Round of 16,Czechoslovakia
+Switzerland,Germany,1,NA,1,NA,1938,Round of 16,Tie
+Italy,Czechoslovakia,2,NA,1,NA,1934,Final,Italy
+Germany,Austria,3,NA,2,NA,1934,Third-place match,Germany
+Czechoslovakia,Germany,3,NA,1,NA,1934,Semi-finals,Czechoslovakia
+Italy,Austria,1,NA,0,NA,1934,Semi-finals,Italy
+Italy,Spain,1,NA,0,NA,1934,Quarter-finals,Italy
+Austria,Hungary,2,NA,1,NA,1934,Quarter-finals,Austria
+Czechoslovakia,Switzerland,3,NA,2,NA,1934,Quarter-finals,Czechoslovakia
+Italy,Spain,1,NA,1,NA,1934,Quarter-finals,Tie
+Germany,Sweden,2,NA,1,NA,1934,Quarter-finals,Germany
+Czechoslovakia,Romania,2,NA,1,NA,1934,Round of 16,Czechoslovakia
+Hungary,Egypt,4,NA,2,NA,1934,Round of 16,Hungary
+Austria,France,3,NA,2,NA,1934,Round of 16,Austria
+Switzerland,Netherlands,3,NA,2,NA,1934,Round of 16,Switzerland
+Sweden,Argentina,3,NA,2,NA,1934,Round of 16,Sweden
+Spain,Brazil,3,NA,1,NA,1934,Round of 16,Spain
+Germany,Belgium,5,NA,2,NA,1934,Round of 16,Germany
+Italy,United States,7,NA,1,NA,1934,Round of 16,Italy
+Uruguay,Argentina,4,NA,2,NA,1930,Final,Uruguay
+Uruguay,Yugoslavia,6,NA,1,NA,1930,Semi-finals,Uruguay
+Argentina,United States,6,NA,1,NA,1930,Semi-finals,Argentina
+Argentina,Chile,3,NA,1,NA,1930,Group stage,Argentina
+Uruguay,Romania,4,NA,0,NA,1930,Group stage,Uruguay
+Brazil,Bolivia,4,NA,0,NA,1930,Group stage,Brazil
+Paraguay,Belgium,1,NA,0,NA,1930,Group stage,Paraguay
+Chile,France,1,NA,0,NA,1930,Group stage,Chile
+Argentina,Mexico,6,NA,3,NA,1930,Group stage,Argentina
+Uruguay,Peru,1,NA,0,NA,1930,Group stage,Uruguay
+Yugoslavia,Bolivia,4,NA,0,NA,1930,Group stage,Yugoslavia
+United States,Paraguay,3,NA,0,NA,1930,Group stage,United States
+Chile,Mexico,3,NA,0,NA,1930,Group stage,Chile
+Argentina,France,1,NA,0,NA,1930,Group stage,Argentina
+Yugoslavia,Brazil,2,NA,1,NA,1930,Group stage,Yugoslavia
+Romania,Peru,3,NA,1,NA,1930,Group stage,Romania
+United States,Belgium,3,NA,0,NA,1930,Group stage,United States
+France,Mexico,4,NA,1,NA,1930,Group stage,France
