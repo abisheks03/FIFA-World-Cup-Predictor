@@ -24,8 +24,9 @@ Data Sources:
 * Aggregates data from official FIFA databases, reputable sports analytics sources, and historical match records.
 
 # Technologies Used:
-
 * R Language: Core programming language for data manipulation, statistical modeling, and data visualization.
 * Shiny: R package for building interactive web applications.
 * ggplot2 and plotly: R package for creating detailed and customizable visualizations.
 * dplyr: R packages for efficient data manipulation and cleaning.
+
+# Screenshots
