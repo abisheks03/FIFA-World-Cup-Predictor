@@ -3,12 +3,12 @@ The FIFA World Cup Predictor and Stats Viewer is an advanced R language-based ap
 
 # Key Features:
 
-* Match Prediction:
+Match Prediction:
 
-** Provides probability estimates for match results, including win, lose, or draw scenarios.
-** Displays predicted scores and key match statistics.
+* Provides probability estimates for match results, including win, lose, or draw scenarios.
+* Displays predicted scores and key match statistics.
 
-* Player Stats:
+Player Stats:
 
 Presents detailed statistics for each player, including goals, assists, passes, tackles, and more.
 Features player comparison tools to evaluate performance metrics side-by-side.
