@@ -10,19 +10,20 @@ Match Prediction:
 
 Player Stats:
 
-Presents detailed statistics for each player, including goals, assists, passes, tackles, and more.
-Features player comparison tools to evaluate performance metrics side-by-side.
-Tracks player performance throughout the tournament with real-time updates.
+* Presents detailed statistics for each player, including goals, assists, passes, tackles, and more.
+
 Team Stats:
 
-Offers comprehensive statistics for all participating teams, including goals scored, goals conceded, possession, and other key metrics.
-Visualizes team performance trends with graphs and charts.
-Allows users to compare teams based on various parameters and historical performance.
+* Offers comprehensive statistics for all participating teams, including goals scored, goals conceded, possession, and other key metrics.
+* Visualizes team performance trends with graphs and charts.
+* Allows users to compare teams based on various parameters and historical performance.
+  
 Interactive Dashboard:
 
-Provides an intuitive and user-friendly interface to navigate through different sections.
-Includes filters to sort and search for specific players, teams, and matches.
-Features interactive visualizations to enhance user experience and data interpretation.
+* Provides an intuitive and user-friendly interface to navigate through different sections.
+* Includes filters to sort and search for specific players, teams, and matches.
+* Features interactive visualizations to enhance user experience and data interpretation.
+  
 Data Sources:
 
 Aggregates data from official FIFA databases, reputable sports analytics sources, and historical match records.
