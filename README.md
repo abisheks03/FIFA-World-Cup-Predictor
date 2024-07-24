@@ -9,11 +9,9 @@ Match Prediction:
 * Displays predicted scores and key match statistics.
 
 Player Stats:
-
 * Presents detailed statistics for each player, including goals, assists, passes, tackles, and more.
 
 Team Stats:
-
 * Offers comprehensive statistics for all participating teams, including goals scored, goals conceded, possession, and other key metrics.
 * Visualizes team performance trends with graphs and charts.
 * Allows users to compare teams based on various parameters and historical performance.
