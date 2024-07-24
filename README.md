@@ -4,7 +4,6 @@ The FIFA World Cup Predictor and Stats Viewer is an advanced R language-based ap
 # Key Features:
 
 Match Prediction:
-
 * Provides probability estimates for match results, including win, lose, or draw scenarios.
 * Displays predicted scores and key match statistics.
 
@@ -17,16 +16,16 @@ Team Stats:
 * Allows users to compare teams based on various parameters and historical performance.
   
 Interactive Dashboard:
-
 * Provides an intuitive and user-friendly interface to navigate through different sections.
 * Includes filters to sort and search for specific players, teams, and matches.
 * Features interactive visualizations to enhance user experience and data interpretation.
   
 Data Sources:
+* Aggregates data from official FIFA databases, reputable sports analytics sources, and historical match records.
 
-Aggregates data from official FIFA databases, reputable sports analytics sources, and historical match records.
-Ensures data accuracy and reliability for all predictions and statistical analyses.
-User Customization:
+# Technologies Used:
 
-Allows users to customize the prediction model by adjusting parameters and input variables.
-Enables users to create and save personalized dashboards with their preferred statistics and visualizations.
+* R Language: Core programming language for data manipulation, statistical modeling, and data visualization.
+* Shiny: R package for building interactive web applications.
+* ggplot2 and plotly: R package for creating detailed and customizable visualizations.
+* dplyr: R packages for efficient data manipulation and cleaning.
